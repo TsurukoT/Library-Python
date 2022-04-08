@@ -1,20 +1,3 @@
-#-------------------------------------------------------------------------------
-#	Name:	Tsuruko Terakawa
-#	Project	6
-#	Due	Date:	12/9/2016
-#-------------------------------------------------------------------------------
-#	Honor	Code	Statement:	I	received	no	assistance	on	this	assignment	that
-#	violates	the	ethical	guidelines	set	forth	by	professor	and	class	syllabus.
-#-------------------------------------------------------------------------------
-#	References:	Piazza
-#-------------------------------------------------------------------------------
-#	Comments and	assumptions:
-#-------------------------------------------------------------------------------
-#	NOTE:	width	of	source	code	should	be	<=	80	characters	to	be	read	on-screen.
-#2345678901234567890123456789012345678901234567890123456789012345678901234567890
-#							10								20								30								40								50								60								70								80
-#-------------------------------------------------------------------------------
-
 class Book:
 
 	def __init__(self, author, title, book_id):
